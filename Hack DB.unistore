@@ -17,21 +17,20 @@
 	"storeContent": [
 		{
 		"info": {
-			"title": "Konotsu Gunner DS (nds)",
-			"version": "",
-			"author": "Yellow Locker, RocketRobz",
-			"description": "Konotsu Gunner DS",
+			"title": "Pokemon Adventure Red Chapter",
+			"version": "15.4",
+			"author": "Aethestode",
+			"description": "",
 			"iconIndex": 3,
 			"posX": 0,
 			"posY": 0,
 			"fileSize": 0
 		},
 		"script": [{
-			"type": "downloadRelease",
-			"repo": "RocketRobz/Konotsu-Gunner-DS",
-			"file": "Konotsu-Gunner.nds",
-			"output": "sdmc:/Konotsu-Gunner.nds",
-			"message": "Downloading Konotsu Gunner DS (nds)..."
+			"type": "downloadFile",
+			"file": "https://drive.google.com/uc?export=download&id=1-qx4acptHgJ9_NdoNN-kWZa0aXiT6pzS",
+			"output": "sdmc:/gba/Pokemon Adventure - Red Chapter.gba8",
+			"message": "Downloading Pokemon Adventure Red Chapter..."
 		}]
 	},
 	{
