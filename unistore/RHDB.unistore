@@ -21,8 +21,8 @@
 			"version": "15.4",
 			"author": "Aethestode",
 			"description": "Based on Pokemon Adventure Manga's Red Arc",
-			"iconIndex": 0,
-			"fileSize": 33554432
+			"iconIndex": "0",
+			"fileSize": "33554432"
 		},
 		"script": [{
 			"type": "downloadFile",
@@ -37,8 +37,8 @@
 			"version": "1.4",
 			"author": "Struedelmuffin",
 			"description": "PkmnEmerald Remaster",
-			"iconIndex": 0,
-			"filesize": "33554432
+			"iconIndex": "0",
+			"filesize": "33554432"
 		},
 		"script": [{
 			"type": "downloadFile",
