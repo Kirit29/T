@@ -41,7 +41,7 @@
 		},
 		"script": [{
 			"type": "downloadFile",
-			"file": "https://www.dropbox.com/s/1d3gptjy1psc329/Pokemon%20Blazing%20Emerald.gba?raw=1",
+			"file": "https://drive.google.com/open?id=1-qx4acptHgJ9_NdoNN-kWZa0aXiT6pzS",
 			"output": "sdmc:/gba/Blazing Emerald.gba",
 			"message": "Downloading Pkmn Blazing Emerald..."
 		}]
