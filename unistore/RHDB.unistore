@@ -3,7 +3,7 @@
 		"title": "Hack Index",
 		"author": "Kirit",
 		"url": "https://github.com/TriforceOfPwnage/Triforces-RHDB/raw/master/unistore/RHDB.unistore",
-		"file": "sdmc:/3ds/Universal-Updater/stores/Hack Index.unistore",
+		"file": "sdmc/3ds/Universal-Updater/stores/Hack Index.unistore",
 		"displayInformation": true,
 		"description": "Kirit's Favorite Hacks",
 		"barColor": "#395472",
@@ -18,11 +18,11 @@
 		{
 		"info": {
 			"title": "Pokemon Adventure Red Chapter",
-			"version": "15.4",
+			"version": "15.4b",
 			"author": "Aethestode",
 			"description": "Based on Pokemon Adventure Manga's Red Arc",
-			"iconIndex": "0",
-			"fileSize": "33554432"
+			"iconIndex": 0,
+			"fileSize": 33554432
 		},
 		"script": [{
 			"type": "downloadFile",
@@ -37,8 +37,8 @@
 			"version": "1.4",
 			"author": "Struedelmuffin",
 			"description": "PkmnEmerald Remaster",
-			"iconIndex": "0",
-			"filesize": "33554432"
+			"iconIndex": 0,
+			"filesize": 33554432
 		},
 		"script": [{
 			"type": "downloadFile",
