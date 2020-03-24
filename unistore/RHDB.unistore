@@ -20,7 +20,6 @@
 			"version": "15.4b",
 			"author": "Aethestode",
 			"description": "Based on Pokemon Adventure Manga's Red Arc",
-			"iconIndex": 0,
 			"fileSize": 33554432
 		},
 		"script": [{
@@ -36,12 +35,11 @@
 			"version": "1.4",
 			"author": "Struedelmuffin",
 			"description": "PkmnEmerald Remaster",
-			"iconIndex": 0,
 			"filesize": 33554432
 		},
 		"script": [{
 			"type": "downloadFile",
-			"file": "https://drive.google.com/open?id=1-qx4acptHgJ9_NdoNN-kWZa0aXiT6pzS",
+                        "output": https://www.dropbox.com/s/1d3gptjy1psc329/Pokemon%20Blazing%20Emerald.gba?dl=1",
 			"output": "sdmc:/gba/Blazing Emerald.gba",
 			"message": "Downloading Pkmn Blazing Emerald..."
 		}]
