@@ -2,9 +2,9 @@
 	"storeInfo": {
 		"title": "Hack Index",
 		"author": "Kirit",
-		"url": "https://github.com/TriforceOfPwnage/Triforces-RHDB/blob/master/unistore/RHDB.unistore",
+		"url": "https://github.com/TriforceOfPwnage/Triforces-RHDB/raw/master/unistore/RHDB.unistore",
 		"file": "sdmc/3ds/Universal-Updater/stores/RHDB.unistore",
-		"displayInformation": false,
+		"displayInformation": true,
 		"description": "Popular Hacks",
 		"barColor": "#395472",
 		"bgBottomColor": "#262C4D",
