@@ -4,15 +4,15 @@
 		"author": "Kirit",
 		"url": "https://github.com/TriforceOfPwnage/Triforces-RHDB/raw/master/unistore/RHDB.unistore",
 		"file": "sdmc:/3ds/Universal-Updater/stores/RHDB.unistore",
-		"displayInformation": true,
-		"description": "Various Fangames",
+		"description": "Various Fangames"
+                "displayInformation": true,
 		"barColor": "#395472",
 		"bgBottomColor": "#262C4D",
 		"bgTopColor": "#60A8C0",
 		"textColor": "#FFFFFF",
 		"selectedColor": "#78C0D8",
 		"unselectedColor": "#4D7684",
-		"version": 0
+		"version": 1
 	},
 	"storeContent": [{
 		"info": {
@@ -35,8 +35,7 @@
 			"version": "1.4",
 			"author": "Struedelmuffin",
 			"description": "PkmnEmerald Remaster",
-			"filesize": 33554432"
-
+			"filesize": 33554432
 		},
 		"script": [{
 			"type": "downloadFile",
