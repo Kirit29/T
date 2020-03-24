@@ -2,10 +2,10 @@
 	"storeInfo": {
 		"title": "Hack Index",
 		"author": "Kirit",
-		"url": "https://github.com/TriforceOfPwnage/Triforces-RHDB/raw/master/unistore/RHDB.unistore",
+		"url":"https://github.com/TriforceOfPwnage/Triforces-RHDB/raw/master/RHDB.unistore",
 		"file": "sdmc:/3ds/Universal-Updater/stores/RHDB.unistore",
+		"displayInformation": true,
 		"description": "Various Fangames",
-                "displayInformation": true,
 		"barColor": "#395472",
 		"bgBottomColor": "#262C4D",
 		"bgTopColor": "#60A8C0",
@@ -20,7 +20,7 @@
 			"version": "15.4b",
 			"author": "Aethestode",
 			"description": "Based on Pokemon Adventure Manga's Red Arc",
-			"fileSize": 33554432
+			"fileSize": "33554432"
 		},
 		"script": [{
 			"type": "downloadFile",
@@ -35,11 +35,11 @@
 			"version": "1.4",
 			"author": "Struedelmuffin",
 			"description": "PkmnEmerald Remaster",
-			"filesize": 33554432
+			"filesize": "33554432"
 		},
 		"script": [{
 			"type": "downloadFile",
-                        "output": https://www.dropbox.com/s/1d3gptjy1psc329/Pokemon%20Blazing%20Emerald.gba?dl=1",
+			"file": "https://www.dropbox.com/s/1d3gptjy1psc329/Pokemon%20Blazing%20Emerald.gba?dl=1",
 			"output": "sdmc:/gba/Blazing Emerald.gba",
 			"message": "Downloading Pkmn Blazing Emerald..."
 		}]
