@@ -41,7 +41,6 @@
 			"type": "downloadFile",
 			"file": "",
 			"output": "sdmc:/gba/Blazing Emerald.gba",
-			"message": "Downloading Pkmn Blazing Emerald..."
-		}]
+			"message": "Downloading Pkmn Blazing Emerald...
 	}]
 }
