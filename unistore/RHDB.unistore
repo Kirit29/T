@@ -12,7 +12,7 @@
 		"textColor": "#FFFFFF",
 		"selectedColor": "#78C0D8",
 		"unselectedColor": "#4D7684",
-		"version": 1
+		"version": 0
 	},
 	"storeContent": [{
 		"info": {
@@ -41,6 +41,6 @@
 			"type": "downloadFile",
 			"file": "",
 			"output": "sdmc:/gba/Blazing Emerald.gba",
-			"message": "Downloading Pkmn Blazing Emerald...
+			"message": "Downloading Pkmn Blazing Emerald..."
 	}]
 }
