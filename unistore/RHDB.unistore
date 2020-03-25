@@ -25,7 +25,7 @@
 		"script": [{
 			"type": "downloadFile",
 			"file": "https://drive.google.com/uc?export=download&id=1-qx4acptHgJ9_NdoNN-kWZa0aXiT6pzS",
-			"output": "sdmc:/gba/Adventure - Red Chapter.gba",
+			"output": "sdmc:/gba/Pokemon Adventure - Red Chapter.gba",
 			"message": "Now Downloading Adventure Red Chapter..."
 		}]
 	},
