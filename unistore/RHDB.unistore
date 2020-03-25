@@ -55,7 +55,7 @@
 		"script": [{
 			"type": "downloadFile",
 			"file": "https://www.dropbox.com/s/ck4sl5l5tphjni3/Glazed.gba?dl=0",
-			"output": "sdmc:/gba/Pokemon Glazed",
+			"output": "sdmc:/gba/Pokemon Glazed.gba",
 			"message": "Now Downloading Pokemon Glazed"
 		}]
 	},
