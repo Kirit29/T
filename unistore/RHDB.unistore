@@ -26,7 +26,7 @@
 			"type": "downloadFile",
 			"file": "https://drive.google.com/uc?export=download&id=1-qx4acptHgJ9_NdoNN-kWZa0aXiT6pzS",
 			"output": "sdmc:/gba/Adventure - Red Chapter.gba",
-			"message": "Downloading Adventure Red Chapter..."
+			"message": "Now Downloading Adventure Red Chapter..."
 		}]
 	},
 	{
@@ -41,22 +41,22 @@
 			"type": "downloadFile",
 			"file": "https://www.dropbox.com/s/1d3gptjy1psc329/Pokemon%20Blazing%20Emerald.gba?raw=1",
 			"output": "sdmc:/gba/Blazing Emerald.gba",
-			"message": "Downloading Pkmn Blazing Emerald..."
+			"message": "Now Downloading Pkmn Blazing Emerald..."
 		}]
 	},
 	{
 		"info": {
-			"title": "PlaceHolder 1",
-			"version": "",
-			"author": "",
-			"description": "",
-			"fileSize": 0
+			"title": "Pokemon Glazed",
+			"version": "8.6.3",
+			"author": "redriders180,TrainerX493",
+			"description": "Original version of Pokemon Glazed by redriders180.n/Updated by TrainerX493",
+			"fileSize": 33554432
 		},
 		"script": [{
 			"type": "downloadFile",
-			"file": "",
-			"output": "",
-			"message": ""
+			"file": "https://www.dropbox.com/s/ck4sl5l5tphjni3/Glazed.gba?dl=0",
+			"output": "sdmc:/gba/Pokemon Glazed",
+			"message": "Now Downloading Pokemon Glazed"
 		}]
 	},
 	{
