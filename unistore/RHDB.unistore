@@ -56,22 +56,22 @@
 			"type": "downloadFile",
 			"file": "https://www.dropbox.com/s/ck4sl5l5tphjni3/Glazed.gba?dl=1",
 			"output": "sdmc:/gba/Pokemon Glazed.gba",
-			"message": "Now Downloading Pokemon Glazed"
+			"message": "Now Downloading Pokemon Glazed..."
 		}]
 	},
 	{
 		"info": {
-			"title": "PlaceHolder 2",
-			"version": "",
-			"author": "",
-			"description": "",
-			"fileSize": 0
+			"title": "Pokemon Emerald Enhanced",
+			"version": "6.66",
+			"author": "Ruuhouji",
+			"description": "Massively changed version of Pokemon Emerald",
+			"fileSize": 32
 		},
 		"script": [{
 			"type": "downloadFile",
-			"file": "",
-			"output": "",
-			"message": ""
+			"file": "https://www.dropbox.com/s/tntcofk6lpcj3i9/Emerald%20Enhanced.gba?dl=1",
+			"output": "sdmc:/gba/Emerald Enhanced",
+			"message": "Now Downloading Pokemon Emerald Enhanced..."
 		}]
 	},
 	{
