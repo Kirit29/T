@@ -78,9 +78,9 @@
 		"info": {
 			"title": "Majora's Mask 64 Upgraded",
 			"version": "1",
-			"author": "",
+			"author": "Unknown",
 			"description": "Upgraded Version of Majora's Mask for N64",
-			"fileSize": 0
+			"fileSize": 33554432
 		},
 		"script": [{
 			"type": "downloadFile",
