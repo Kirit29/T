@@ -65,7 +65,7 @@
 			"version": "6.66",
 			"author": "Ruuhouji",
 			"description": "Massively changed version of Pokemon Emerald",
-			"fileSize": 32
+			"fileSize": 33554432
 		},
 		"script": [{
 			"type": "downloadFile",
