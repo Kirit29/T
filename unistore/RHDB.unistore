@@ -76,17 +76,17 @@
 	},
 	{
 		"info": {
-			"title": "PlaceHolder 3",
-			"version": "",
+			"title": "Majora's Mask 64 Upgraded",
+			"version": "1",
 			"author": "",
-			"description": "",
+			"description": "Upgraded Version of Majora's Mask for N64",
 			"fileSize": 0
 		},
 		"script": [{
 			"type": "downloadFile",
-			"file": "",
-			"output": "",
-			"message": ""
+			"file": "https://www.dropbox.com/s/zaa39a1va7rx680/Majoras%20Mask.z64?dl=1",
+			"output": "sdmc:/3ds/DaedalusX64/Roms/Majoras Mask.z64",
+			"message": "Now Downloading Majora's Mask Upgraded..."
 		}]
 	},
 	{
