@@ -24,7 +24,7 @@
 		},
 		"script": [{
 			"type": "downloadFile",
-			"file": "https://drive.google.com/uc?export=download&id=1-qx4acptHgJ9_NdoNN-kWZa0aXiT6pzS",
+			"file": "https://www.dropbox.com/s/ak9ctjzyqhtsekx/Pokemon%20Adventure%20-%20Red%20Chapter.gba?dl=1",
 			"output": "sdmc:/gba/Pokemon Adventure - Red Chapter.gba",
 			"message": "Now Downloading Adventure Red Chapter..."
 		}]
@@ -76,7 +76,7 @@
 	},
 	{
 		"info": {
-			"title": "Majora's Mask 64 Upgraded",
+			"title": "Majora's Mask 64 - Masked Quest",
 			"version": "1",
 			"author": "Unknown",
 			"description": "Upgraded Version of Majora's Mask for N64",
@@ -86,7 +86,7 @@
 			"type": "downloadFile",
 			"file": "https://www.dropbox.com/s/zaa39a1va7rx680/Majoras%20Mask.z64?dl=1",
 			"output": "sdmc:/3ds/DaedalusX64/Roms/Majoras Mask.z64",
-			"message": "Now Downloading Majora's Mask Upgraded..."
+			"message": "Now Downloading Majora's Mask - Masked Quest..."
 		}]
 	},
 	{
@@ -106,17 +106,17 @@
 	},
 	{
 		"info": {
-			"title": "PlaceHolder 5",
-			"version": "",
-			"author": "",
-			"description": "",
+			"title": "Pokemon Clover",
+			"version": "1.1",
+			"author": "4chan",
+			"description": "A parody of 4chan’s imageboard culture and Pokemon as a whole",
 			"fileSize": 0
 		},
 		"script": [{
 			"type": "downloadFile",
-			"file": "",
-			"output": "",
-			"message": ""
+			"file": "https://www.dropbox.com/s/iok68vkprs8ihe8/Clover%20v1.1.gba?dl=1",
+			"output": "sdmc:/gba/Pokemon Clover.gba",
+			"message": "We're Sorry...but now Downloading Pokemon Clover..."
 		}]
 	}]
 }
