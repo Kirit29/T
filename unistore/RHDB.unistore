@@ -118,5 +118,20 @@
 			"output": "sdmc:/gba/Pokemon Clover.gba",
 			"message": "We're Sorry...but now Downloading Pokemon Clover..."
 		}]
+	},
+	{
+		"info": {
+			"title": "Pokemon Shining Victory",
+			"version": "Beta 2",
+			"author": "Percy",
+			"description": "Follow Ash in his Journey to recover his memories while traveling through the Heron Region!",
+			"fileSize": 134090566
+		},
+		"script": [{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/g6h15lb3wkyl9xc/Pokemon%20Shining%20Victory%20b-2.0.gba?dl=1",
+			"output": "sdmc:/gba/Shining Victory.gba",
+			"message": "Now Downloading Pokemon Shining Victory..."
+		}]
 	}]
 }
