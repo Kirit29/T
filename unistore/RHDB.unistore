@@ -114,7 +114,7 @@
 		},
 		"script": [{
 			"type": "downloadFile",
-			"file": "https://www.dropbox.com/s/iok68vkprs8ihe8/Clover%20v1.1.gba?dl=1",
+			"file": "https://www.dropbox.com/s/iok68vkprs8ihe8/Clover.gba?dl=1",
 			"output": "sdmc:/gba/Pokemon Clover.gba",
 			"message": "We're Sorry...but now Downloading Pokemon Clover..."
 		}]
