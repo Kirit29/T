@@ -76,17 +76,27 @@
 	},
 	{
 		"info": {
-			"title": "Majora's Mask 64 - Masked Quest",
+			"title": "Fire Emblem Code of Black Knights Promotion at Beginning",
 			"version": "1",
 			"author": "Unknown",
-			"description": "Upgraded Version of Majora's Mask for N64",
-			"fileSize": 33554432
+			"description": "A Fire Emblem Fangame",
+			"fileSize":
 		},
 		"script": [{
 			"type": "downloadFile",
-			"file": "https://www.dropbox.com/s/zaa39a1va7rx680/Majoras%20Mask.z64?dl=1",
-			"output": "sdmc:/3ds/DaedalusX64/Roms/Majoras Mask.z64",
-			"message": "Now Downloading Majora's Mask - Masked Quest..."
+			"file": "",
+			"output": "sdmc:/gba/Code of Black Knights.zip",
+			"message": "Now Downloading Code of Black Knights...
+	},
+	{		"type": "extractFile",
+			"file": "Code Of Black Knights.zip",
+			"input": "",
+			"output": "sdmc:/gba/",
+			"message": "Now Extracting Code Of Black Knights..."
+	},
+	{		"type": "deleteFile",
+			"file": "sdmc:/gba/Code Of Black Knights.zip",
+			"message": "Deleting uneeded archive"
 		}]
 	},
 	{
