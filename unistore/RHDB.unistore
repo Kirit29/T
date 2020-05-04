@@ -85,19 +85,19 @@
 		"script": [{
 			"type": "downloadFile",
 			"file": "https://www.dropbox.com/s/b633irj7ckwran4/Code%20Of%20Black%20Knights.zip?dl=1",
-			"output": "sdmc:/Code of Black Knights.zip",
+			"output": "/Code of Black Knights.zip",
 			"message": "Now Downloading Code of Black Knights..."
 	},
 	{		
 			"type": "extractFile",
 			"file": "sdmc:/Code Of Black Knights.zip",
 			"input": "",
-			"output": "sdmc:/",
+			"output": "/",
 			"message": "Now Extracting Code Of Black Knights..."
 	},
 	{		
 			"type": "deleteFile",
-			"file": "sdmc:/gba/Code Of Black Knights.zip",
+			"file": "/Code Of Black Knights.zip",
 			"message": "Deleting uneeded archive"
 		}]
 	},
