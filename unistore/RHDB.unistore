@@ -86,7 +86,7 @@
 			"type": "downloadFile",
 			"file": "https://www.dropbox.com/s/b633irj7ckwran4/Code%20Of%20Black%20Knights.zip?dl=1",
 			"output": "sdmc:/gba/Code of Black Knights.zip",
-			"message": "Now Downloading Code of Black Knights...
+			"message": "Now Downloading Code of Black Knights..."
 	},
 	{		
 			"type": "extractFile",
