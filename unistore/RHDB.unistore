@@ -90,7 +90,7 @@
 	},
 	{		
 			"type": "extractFile",
-			"file": "Code Of Black Knights.zip",
+			"file": "sdmc:/gba/Code Of Black Knights.zip",
 			"input": "",
 			"output": "sdmc:/gba/",
 			"message": "Now Extracting Code Of Black Knights..."
