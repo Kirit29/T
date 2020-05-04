@@ -80,7 +80,7 @@
 			"version": "1",
 			"author": "Unknown",
 			"description": "A Fire Emblem Fangame",
-			"fileSize":
+			"fileSize": 0
 		},
 		"script": [{
 			"type": "downloadFile",
@@ -88,13 +88,15 @@
 			"output": "sdmc:/gba/Code of Black Knights.zip",
 			"message": "Now Downloading Code of Black Knights...
 	},
-	{		"type": "extractFile",
+	{		
+			"type": "extractFile",
 			"file": "Code Of Black Knights.zip",
 			"input": "",
 			"output": "sdmc:/gba/",
 			"message": "Now Extracting Code Of Black Knights..."
 	},
-	{		"type": "deleteFile",
+	{		
+			"type": "deleteFile",
 			"file": "sdmc:/gba/Code Of Black Knights.zip",
 			"message": "Deleting uneeded archive"
 		}]
