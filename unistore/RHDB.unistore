@@ -62,15 +62,15 @@
 	{
 		"info": {
 			"title": "Pokemon Emerald Enhanced",
-			"version": "6.66",
-			"author": "Ruuhouji",
+			"version": "6.73",
+			"author": "Ryuhouji",
 			"description": "Massively changed version of Pokemon Emerald",
 			"fileSize": 33554432
 		},
 		"script": [{
 			"type": "downloadFile",
 			"file": "https://www.dropbox.com/s/tntcofk6lpcj3i9/Emerald%20Enhanced.gba?dl=1",
-			"output": "sdmc:/gba/Emerald Enhanced",
+			"output": "sdmc:/gba/Emerald Enhanced.gba",
 			"message": "Now Downloading Pokemon Emerald Enhanced..."
 		}]
 	},
