@@ -133,17 +133,17 @@
 	},
 	{
 		"info": {
-			"title": "Pokemon Shining Victory",
-			"version": "Beta 2",
-			"author": "Percy",
-			"description": "Follow Ash in his Journey to recover his memories while traveling through the Heron Region!",
-			"fileSize": 134090566
+			"title": "Pokemon Sovereign of the Skies",
+			"version": "Tech",
+			"author": "Dragonfly",
+			"description": "Start your adventure to save the Hupest region from total destruction",
+			"fileSize": 33554432
 		},
 		"script": [{
 			"type": "downloadFile",
-			"file": "https://www.dropbox.com/s/g6h15lb3wkyl9xc/Pokemon%20Shining%20Victory%20b-2.0.gba?dl=1",
-			"output": "sdmc:/gba/Shining Victory.gba",
-			"message": "Now Downloading Pokemon Shining Victory..."
+			"file": "https://www.dropbox.com/s/s5kjehezstsic28/Sovereign%20of%20the%20Skies.gba?dl=1",
+			"output": "sdmc:/gba/Sovereign of the Skies.gba",
+			"message": "Now Downloading Pokemon SotS"
 		}]
 	}]
 }
