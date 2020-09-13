@@ -133,6 +133,21 @@
 	},
 	{
 		"info": {
+			"title": "Pokemon GS Chronicles",
+			"version": "2.5",
+			"author": "Capt. Amon",
+			"description": "Start your adventure through the Johto Region",
+			"fileSize": 33554432
+		},
+		"script": [{
+			"type": "downloadFile",
+			"file": "https://drive.google.com/u/0/uc?id=186NeyCMYWOkUyUqdL6yJvKelr5W5Qr0r&export=download",
+			"output": "sdmc:/gba/GS Chronicles.gba",
+			"message": "Now Downloading Pokemon GS Chronicles"
+		}]
+	},
+	{
+		"info": {
 			"title": "Pokemon Sovereign of the Skies",
 			"version": "Tech",
 			"author": "Dragonfly",
