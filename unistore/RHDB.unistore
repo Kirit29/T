@@ -32,14 +32,14 @@
 	{
 		"info": {
 			"title": "Blazing Emerald",
-			"version": "1.4",
+			"version": "1.5",
 			"author": "Struedelmuffin",
-			"description": "PkmnEmerald Remaster",
+			"description": "Pokemon Emerald Remaster",
 			"fileSize": 33554432
 		},
 		"script": [{
 			"type": "downloadFile",
-			"file": "https://www.dropbox.com/s/1d3gptjy1psc329/Pokemon%20Blazing%20Emerald.gba?raw=1",
+			"file": "https://www.dropbox.com/s/iteeho90cyozq1m/Blazing%20Emerald.gba?dl=1",
 			"output": "sdmc:/gba/Blazing Emerald.gba",
 			"message": "Now Downloading Pkmn Blazing Emerald..."
 		}]
