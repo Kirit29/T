@@ -24,7 +24,7 @@
 			"description": "Based on Pokemon Adventure Manga's Red Arc",
 			"fileSize": 33554432
 		},
-		"script": [{
+		"Pokemon Adventure Red's Chapter (32 MiB)": [{
 			"type": "downloadFile",
 			"file": "https://www.dropbox.com/s/ak9ctjzyqhtsekx/Pokemon%20Adventure%20-%20Red%20Chapter.gba?dl=1",
 			"output": "sdmc:/gba/Pokemon Adventure - Red Chapter.gba",
@@ -33,7 +33,7 @@
 	},
 	{
 		"info": {
-			"title": "Blazing Emerald",
+			"title": "Pokemon Blazing Emerald",
 			"version": "1.5",
 			"author": "Struedelmuffin",
 			"description": "Pokemon Emerald Remaster",
@@ -41,7 +41,7 @@
 			"console": "Gameboy Advance",
 			"fileSize": 33554432
 		},
-		"script": [{
+		"Pokemon Blazing Emerald (32 MiB)": [{
 			"type": "downloadFile",
 			"file": "https://www.dropbox.com/s/iteeho90cyozq1m/Blazing%20Emerald.gba?dl=1",
 			"output": "sdmc:/gba/Blazing Emerald.gba",
@@ -58,7 +58,7 @@
 			"console": "Gameboy Advance",
 			"fileSize": 33554432
 		},
-		"script": [{
+		"Pokemon Glazed (32 MiB)": [{
 			"type": "downloadFile",
 			"file": "https://www.dropbox.com/s/ck4sl5l5tphjni3/Glazed.gba?dl=1",
 			"output": "sdmc:/gba/Pokemon Glazed.gba",
@@ -75,7 +75,7 @@
 			"description": "Massively changed version of Pokemon Emerald",
 			"fileSize": 33554432
 		},
-		"script": [{
+		"Pokemon Emerald Enhanced (32 MiB)": [{
 			"type": "downloadFile",
 			"file": "https://www.dropbox.com/s/tntcofk6lpcj3i9/Emerald%20Enhanced.gba?dl=1",
 			"output": "sdmc:/gba/Emerald Enhanced.gba",
@@ -92,7 +92,7 @@
 			"console": "Gameboy Advance",
 			"fileSize": 0
 		},
-		"script": [{
+		"Fire Emblem Code of Black Knights Promotion at Beginning": [{
 			"type": "downloadFile",
 			"file": "https://www.dropbox.com/s/b633irj7ckwran4/Code%20Of%20Black%20Knights.zip?dl=1",
 			"output": "/Code of Black Knights.zip",
@@ -121,7 +121,7 @@
 			"description": "Fire Emblem Fangame that takes place during the events of Binding Blade",
 			"fileSize": 33554432
 		},
-		"script": [{
+		"Fire Emblem The Nameless Heroes": [{
 			"type": "downloadFile",
 			"file": "https://www.dropbox.com/s/1ghlo5xchrliyhs/The%20Nameless%20Heroes.gba?dl=1",
 			"output": "sdmc:/gba/The Nameless Heroes.gba",
@@ -138,7 +138,7 @@
 			"console": "Gameboy Advance",
 			"fileSize": 16777216
 		},
-		"script": [{
+		"Pokemon Clover (16 MiB)": [{
 			"type": "downloadFile",
 			"file": "https://www.dropbox.com/s/iok68vkprs8ihe8/Clover.gba?dl=1",
 			"output": "sdmc:/gba/Pokemon Clover.gba",
@@ -155,7 +155,7 @@
 			"console": "Gameboy Advance"
 			"fileSize": 33554432
 		},
-		"script": [{
+		"Pokemon GS Chronicles (32 MiB)": [{
 			"type": "downloadFile",
 			"file": "https://drive.google.com/u/0/uc?id=186NeyCMYWOkUyUqdL6yJvKelr5W5Qr0r&export=download",
 			"output": "sdmc:/gba/GS Chronicles.gba",
@@ -172,7 +172,7 @@
 			"console": "Gameboy Advance",
 			"fileSize": 33554432
 		},
-		"script": [{
+		"Pokemon Sovereign of the Skies (MiB)": [{
 			"type": "downloadFile",
 			"file": "https://www.dropbox.com/s/s5kjehezstsic28/Sovereign%20of%20the%20Skies.gba?dl=1",
 			"output": "sdmc:/gba/Sovereign of the Skies.gba",
