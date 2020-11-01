@@ -21,11 +21,12 @@
             "version":"Vol. 1",
             "author":"Aethestode",
             "category":"Pokemon Fire Red Hack",
-            "console":"Gameboy Advanced",
+            "console":"Gameboy Advance",
+            "Last Updated":"11/1/2020",
             "description":"Based on Pokemon Adventure Manga's Red Arc",
             "fileSize":33554432
          },
-         "Pokemon Adventure Red's Chapter (32 MiB)":[
+         "Download Pokemon Adventure Red's Chapter (32 MiB)":[
             {
                "type":"downloadFile",
                "file":"https://www.dropbox.com/s/ak9ctjzyqhtsekx/Pokemon%20Adventure%20-%20Red%20Chapter.gba?dl=1",
@@ -42,9 +43,10 @@
             "description":"Pokemon Emerald Remaster",
             "category":"Pokemon Emerald Decomp Hack",
             "console":"Gameboy Advance",
+            "Last Updated":"11/1/2020",
             "fileSize":33554432
          },
-         "Pokemon Blazing Emerald (32 MiB)":[
+         "Download Pokemon Blazing Emerald (32 MiB)":[
             {
                "type":"downloadFile",
                "file":"https://www.dropbox.com/s/iteeho90cyozq1m/Blazing%20Emerald.gba?dl=1",
@@ -61,9 +63,10 @@
             "description":"Pokemon Glazed by redriders180.Updated by TrainerX493",
             "category":"Pokemon Emerald Hack",
             "console":"Gameboy Advance",
+            "Last Updated":"11/1/2020",
             "fileSize":33554432
          },
-         "Pokemon Glazed (32 MiB)":[
+         "Download Pokemon Glazed (32 MiB)":[
             {
                "type":"downloadFile",
                "file":"https://www.dropbox.com/s/ck4sl5l5tphjni3/Glazed.gba?dl=1",
@@ -79,10 +82,11 @@
             "author":"Ryuhouji",
             "category":"Pokemon Emerald Decomp Hack",
             "console":"Gameboy Advance",
+            "Last Updated":"11/1/2020",
             "description":"Massively changed version of Pokemon Emerald",
             "fileSize":33554432
          },
-         "Pokemon Emerald Enhanced (32 MiB)":[
+         "Download Pokemon Emerald Enhanced (32 MiB)":[
             {
                "type":"downloadFile",
                "file":"https://www.dropbox.com/s/tntcofk6lpcj3i9/Emerald%20Enhanced.gba?dl=1",
@@ -124,15 +128,16 @@
       },
       {
          "info":{
-            "title":"The Nameless Heroes",
+            "title":"Fire Emblem The Nameless Heroes",
             "version":"Beta",
             "author":"Isaac",
             "category":"Turn-Based Strategy",
             "console":"Gameboy Advance",
+            "Last Updated":"11/1/2020",
             "description":"Fire Emblem Fangame that takes place during the events of Binding Blade",
             "fileSize":33554432
          },
-         "Fire Emblem The Nameless Heroes":[
+         "Download Fire Emblem The Nameless Heroes":[
             {
                "type":"downloadFile",
                "file":"https://www.dropbox.com/s/1ghlo5xchrliyhs/The%20Nameless%20Heroes.gba?dl=1",
@@ -149,9 +154,10 @@
             "description":"A parody of 4chan’s imageboard culture and Pokemon as a whole",
             "category":"Pokemon Fire Red Hack",
             "console":"Gameboy Advance",
+            "Last Updated":"11/1/2020",
             "fileSize":16777216
          },
-         "Pokemon Clover (16 MiB)":[
+         "Download Pokemon Clover (16 MiB)":[
             {
                "type":"downloadFile",
                "file":"https://www.dropbox.com/s/iok68vkprs8ihe8/Clover.gba?dl=1",
@@ -168,9 +174,10 @@
             "description":"Start your adventure through the Johto Region",
             "category":"Pokemon Fire Red Hack",
             "console":"Gameboy Advance",
+            "Last Updated":"11/1/2020",
             "fileSize":33554432
          },
-         "Pokemon GS Chronicles (32 MiB)":[
+         "Download Pokemon GS Chronicles (32 MiB)":[
             {
                "type":"downloadFile",
                "file":"https://drive.google.com/u/0/uc?id=186NeyCMYWOkUyUqdL6yJvKelr5W5Qr0r&export=download",
@@ -187,9 +194,10 @@
             "description":"Start your adventure to save the Hupest region from total destruction",
             "category":"Pokemon Emerald Decomp Hack",
             "console":"Gameboy Advance",
+            "Last Updated":"11/1/2020",
             "fileSize":33554432
          },
-         "Pokemon Sovereign of the Skies (MiB)":[
+         "Download Pokemon Sovereign of the Skies (MiB)":[
             {
                "type":"downloadFile",
                "file":"https://www.dropbox.com/s/s5kjehezstsic28/Sovereign%20of%20the%20Skies.gba?dl=1",
