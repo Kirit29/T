@@ -19,6 +19,8 @@
 			"title": "Pokemon Adventure Red Chapter",
 			"version": "Vol. 1",
 			"author": "Aethestode",
+			"category": "Pokemon Fire Red Hack"
+			"console": "Gameboy Advanced"
 			"description": "Based on Pokemon Adventure Manga's Red Arc",
 			"fileSize": 33554432
 		},
@@ -35,6 +37,8 @@
 			"version": "1.5",
 			"author": "Struedelmuffin",
 			"description": "Pokemon Emerald Remaster",
+			"category": "Pokemon Emerald Decomp Hack",
+			"console": "Gameboy Advance",
 			"fileSize": 33554432
 		},
 		"script": [{
@@ -50,6 +54,8 @@
 			"version": "8.6.3",
 			"author": "redriders180,TrainerX493",
 			"description": "Pokemon Glazed by redriders180.Updated by TrainerX493",
+			"category": "Pokemon Emerald Hack",
+			"console": "Gameboy Advance",
 			"fileSize": 33554432
 		},
 		"script": [{
@@ -64,6 +70,8 @@
 			"title": "Pokemon Emerald Enhanced",
 			"version": "7.02",
 			"author": "Ryuhouji",
+			"category": "Pokemon Emerald Decomp Hack",
+			"console": "Gameboy Advance",
 			"description": "Massively changed version of Pokemon Emerald",
 			"fileSize": 33554432
 		},
@@ -80,6 +88,8 @@
 			"version": "1",
 			"author": "Unknown",
 			"description": "A Fire Emblem Fangame",
+			"category": "Turn-Based Strategy",
+			"console": "Gameboy Advance",
 			"fileSize": 0
 		},
 		"script": [{
@@ -106,6 +116,8 @@
 			"title": "The Nameless Heroes",
 			"version": "Beta",
 			"author": "Isaac",
+			"category": "Turn-Based Strategy",
+			"console": "Gameboy Advance",
 			"description": "Fire Emblem Fangame that takes place during the events of Binding Blade",
 			"fileSize": 33554432
 		},
@@ -122,21 +134,25 @@
 			"version": "1.2",
 			"author": "4chan",
 			"description": "A parody of 4chan’s imageboard culture and Pokemon as a whole",
+			"category": "Pokemon Fire Red Hack",
+			"console": "Gameboy Advance",
 			"fileSize": 16777216
 		},
 		"script": [{
 			"type": "downloadFile",
 			"file": "https://www.dropbox.com/s/iok68vkprs8ihe8/Clover.gba?dl=1",
 			"output": "sdmc:/gba/Pokemon Clover.gba",
-			"message": "We're Sorry...but now Downloading Pokemon Clover..."
+			"message": "We're Sorry...But now Downloading Pokemon Clover..."
 		}]
 	},
 	{
 		"info": {
 			"title": "Pokemon GS Chronicles",
-			"version": "2.5",
+			"version": "2.6",
 			"author": "Capt. Amon",
 			"description": "Start your adventure through the Johto Region",
+			"category": "Pokemon Fire Red Hack",
+			"console": "Gameboy Advance"
 			"fileSize": 33554432
 		},
 		"script": [{
@@ -149,9 +165,11 @@
 	{
 		"info": {
 			"title": "Pokemon Sovereign of the Skies",
-			"version": "Tech",
+			"version": "Alpha",
 			"author": "Dragonfly",
 			"description": "Start your adventure to save the Hupest region from total destruction",
+			"category": "Pokemon Emerald Decomp Hack",
+			"console": "Gameboy Advance",
 			"fileSize": 33554432
 		},
 		"script": [{
