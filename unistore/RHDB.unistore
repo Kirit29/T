@@ -11,7 +11,7 @@
       "textColor": "#FFFFFF",
       "selectedColor": "#78C0D8",
       "unselectedColor": "#4D7684",
-      "revision": 6,
+      "revision": 7,
       "version": 3
    },
    "storeContent":[
@@ -22,7 +22,7 @@
             "author":"Aethestode",
             "category":"Pokemon Fire Red Hack",
             "console":"Gameboy Advance",
-            "Last Updated":"11-1-2020",
+            "last_updated":"11-1-2020",
             "description":"Based on Pokemon Adventure Manga's Red Arc",
             "fileSize":33554432
          },
