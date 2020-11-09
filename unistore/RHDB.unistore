@@ -11,7 +11,7 @@
       "textColor": "#FFFFFF",
       "selectedColor": "#78C0D8",
       "unselectedColor": "#4D7684",
-      "revision": 8,
+      "revision": 9,
       "version": 3
    },
    "storeContent":[
@@ -78,7 +78,7 @@
       {
          "info":{
             "title":"Pokemon Emerald Enhanced",
-            "version":"7.1",
+            "version":"7.104",
             "author":"Ryuhouji",
             "category":"Pokemon Emerald Decomp Hack",
             "console":"Gameboy Advance",
