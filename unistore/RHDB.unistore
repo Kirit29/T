@@ -11,7 +11,7 @@
       "textColor": "#FFFFFF",
       "selectedColor": "#78C0D8",
       "unselectedColor": "#4D7684",
-      "revision": 17,
+      "revision": 18,
       "version": 3
    },
    "storeContent":[
@@ -98,11 +98,12 @@
       {
          "info":{
             "title":"Fire Emblem Shadows of Valentia Amiibos++",
-            "version":"1",
+            "version":"2",
             "author":"Oersted",
             "description":"Allows one to recruit amiibos in the early game, via altered events.",
             "category":"Turn-Based Strategy",
             "console":"3ds",
+            "last_updated":"11-17-2020",
             "fileSize":0
          },
          "Fire Emblem Shadows of Valentia Amiibos++":[
