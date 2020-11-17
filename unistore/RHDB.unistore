@@ -11,7 +11,7 @@
       "textColor": "#FFFFFF",
       "selectedColor": "#78C0D8",
       "unselectedColor": "#4D7684",
-      "revision": 14,
+      "revision": 15,
       "version": 3
    },
    "storeContent":[
@@ -97,31 +97,31 @@
       },
       {
          "info":{
-            "title":"Fire Emblem Code of Black Knights Promotion at Beginning",
+            "title":"Fire Emblem Shadows of Valentia Amiibos++",
             "version":"1",
-            "author":"Unknown",
-            "description":"A Fire Emblem Fangame",
+            "author":"Oersted",
+            "description":"Allows one to recruit amiibos in the early game, via altered events.",
             "category":"Turn-Based Strategy",
-            "console":"Gameboy Advance",
+            "console":"3ds",
             "fileSize":0
          },
-         "Fire Emblem Code of Black Knights Promotion at Beginning":[
+         "Fire Emblem Shadows of Valentia Amiibos++":[
             {
                "type":"downloadFile",
-               "file":"https://www.dropbox.com/s/b633irj7ckwran4/Code%20Of%20Black%20Knights.zip?dl=1",
-               "output":"/Code of Black Knights.zip",
-               "message":"Now Downloading Code of Black Knights..."
+               "file":"https://gamebanana.com/gamefiles/download/12895",
+               "output":"/Amiibos_V2.rar",
+               "message":"Now Downloading Amiibos V2..."
             },
             {
                "type":"extractFile",
-               "file":"sdmc:/Code Of Black Knights.zip",
-               "input":"",
-               "output":"/",
-               "message":"Now Extracting Code Of Black Knights..."
+               "file":"sdmc:/Amiibos_V2.rar",
+               "input":"/romfs",
+               "output":"/luma/titles/00040000001B4000",
+               "message":"Now Extracting Amiibos++..."
             },
             {
                "type":"deleteFile",
-               "file":"/Code Of Black Knights.zip",
+               "file":"/Amiibos_V2.rar",
                "message":"Deleting uneeded archive"
             }
          ]
