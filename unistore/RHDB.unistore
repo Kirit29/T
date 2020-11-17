@@ -11,7 +11,7 @@
       "textColor": "#FFFFFF",
       "selectedColor": "#78C0D8",
       "unselectedColor": "#4D7684",
-      "revision": 16,
+      "revision": 17,
       "version": 3
    },
    "storeContent":[
@@ -109,19 +109,19 @@
             {
                "type":"downloadFile",
                "file":"https://gamebanana.com/gamefiles/download/12895",
-               "output":"/Amiibos_V2.rar",
-               "message":"Now Downloading Amiibos V2..."
+               "output":"/amiibos_v2.rar",
+               "message":"Now Downloading amiibos v2..."
             },
             {
                "type":"extractFile",
-               "file":"sdmc:/Amiibos_V2.rar",
+               "file":"sdmc:/amiibos_v2.rar",
                "input":"/",
                "output":"/luma/titles/00040000001B4000/",
                "message":"Now Extracting Amiibos++..."
             },
             {
                "type":"deleteFile",
-               "file":"/Amiibos_V2.rar",
+               "file":"/amiibos_v2.rar",
                "message":"Deleting uneeded archive"
             }
          ]
