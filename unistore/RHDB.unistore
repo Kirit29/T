@@ -114,8 +114,8 @@
             },
             {
                "type":"extractFile",
-               "file":"sdmc:/amiibos_v2.rar",
-               "input":"/",
+               "file":"/amiibos_v2.rar",
+               "input":"romfs",
                "output":"/luma/titles/00040000001B4000/",
                "message":"Now Extracting Amiibos++..."
             },
