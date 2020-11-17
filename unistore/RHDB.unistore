@@ -11,7 +11,7 @@
       "textColor": "#FFFFFF",
       "selectedColor": "#78C0D8",
       "unselectedColor": "#4D7684",
-      "revision": 15,
+      "revision": 16,
       "version": 3
    },
    "storeContent":[
@@ -115,8 +115,8 @@
             {
                "type":"extractFile",
                "file":"sdmc:/Amiibos_V2.rar",
-               "input":"/romfs",
-               "output":"/luma/titles/00040000001B4000",
+               "input":"/",
+               "output":"/luma/titles/00040000001B4000/",
                "message":"Now Extracting Amiibos++..."
             },
             {
