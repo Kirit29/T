@@ -116,7 +116,7 @@
             {
                "type":"extractFile",
                "file":"/amiibos_v2.7z",
-               "input":"/romfs",
+               "input":"",
                "output":"/luma/titles/00040000001B4000/",
                "message":"Now Extracting Amiibos++..."
             },
