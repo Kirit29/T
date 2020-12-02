@@ -11,7 +11,7 @@
       "textColor": "#FFFFFF",
       "selectedColor": "#78C0D8",
       "unselectedColor": "#4D7684",
-      "revision": 22,
+      "revision": 23,
       "version": 3
    },
    "storeContent":[
@@ -22,7 +22,7 @@
             "author":"Aethestode",
             "category":"Pokemon Fire Red Hack",
             "console":"Gameboy Advance",
-            "last_updated":"11-4-2020",
+            "last_updated":"12-2-2020",
             "description":"Based on Pokemon Adventure Manga's Red Arc",
             "fileSize":33554432
          },
@@ -204,6 +204,26 @@
                "file":"https://www.dropbox.com/s/s5kjehezstsic28/Sovereign%20of%20the%20Skies.gba?dl=1",
                "output":"sdmc:/gba/Sovereign of the Skies.gba",
                "message":"Now Downloading Pokemon SotS"
+            }
+         ]
+      },
+      {
+         "info":{
+            "title":"Pokemon Unbound",
+            "version":"1.0",
+            "author":"Skeli",
+            "description":"Start your adventure to save the Hupest region from total destruction",
+            "category":"Pokemon Fire Red Hack",
+            "console":"Gameboy Advance",
+            "last_updated":"12-2-2020",
+            "fileSize":33554432
+         },
+         "Download Pokemon Unbound (MiB 32)":[
+            {
+               "type":"downloadFile",
+               "file":"https://www.dropbox.com/s/uh8n47rgadgk1kn/Pokemon%20Unbound.gba?dl=1",
+               "output":"sdmc:/gba/Pokemon Unbound.gba",
+               "message":"Now Downloading Pokemon Unbound..."
             }
          ]
       }
