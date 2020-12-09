@@ -3,7 +3,7 @@
       "title": "Kirit's Hack Showcase Baby",
       "author": "Kirit",
       "file": "RHDB.unistore",
-      "url":"https://github.com/TriforceOfPwnage/RHDB/blob/master/unistore/RHDB.unistore",
+      "url":"https://github.com/Kirit29/RHDB/blob/master/unistore/RHDB.unistore",
       "description": "Various Fangames",
       "barColor":"#395472",
       "bgBottomColor":"#262C4D",
@@ -11,7 +11,7 @@
       "textColor": "#FFFFFF",
       "selectedColor": "#78C0D8",
       "unselectedColor": "#4D7684",
-      "revision": 27,
+      "revision": 28,
       "version": 3
    },
    "storeContent":[
