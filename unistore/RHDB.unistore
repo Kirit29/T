@@ -11,7 +11,7 @@
       "textColor": "#FFFFFF",
       "selectedColor": "#78C0D8",
       "unselectedColor": "#4D7684",
-      "revision": 23,
+      "revision": 24,
       "version": 3
    },
    "storeContent":[
@@ -210,12 +210,12 @@
       {
          "info":{
             "title":"Pokemon Unbound",
-            "version":"1.0.1",
+            "version":"1.0",
             "author":"Skeli",
             "description":"Start your adventure to save the Hupest region from total destruction",
             "category":"Pokemon Fire Red Hack",
             "console":"Gameboy Advance",
-            "last_updated":"12-3-2020",
+            "last_updated":"12-2-2020",
             "fileSize":33554432
          },
          "Download Pokemon Unbound (MiB 32)":[
