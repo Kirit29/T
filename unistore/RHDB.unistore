@@ -11,7 +11,7 @@
       "textColor": "#FFFFFF",
       "selectedColor": "#78C0D8",
       "unselectedColor": "#4D7684",
-      "revision": 24,
+      "revision": 25,
       "version": 3
    },
    "storeContent":[
@@ -212,7 +212,7 @@
             "title":"Pokemon Unbound",
             "version":"1.0",
             "author":"Skeli",
-            "description":"Start your adventure to save the Hupest region from total destruction",
+            "description":"Start your adventure in the Borrius region. Along the way, uncover and stop the mysterious organization simply known as "The Shadows" and save the region from ultimate destruction.",
             "category":"Pokemon Fire Red Hack",
             "console":"Gameboy Advance",
             "last_updated":"12-2-2020",
