@@ -11,7 +11,7 @@
       "textColor": "#FFFFFF",
       "selectedColor": "#78C0D8",
       "unselectedColor": "#4D7684",
-      "revision": 40,
+      "revision": 41,
       "version": 3
    },
    "storeContent":[
@@ -111,7 +111,7 @@
                "type":"downloadFile",
                "file":"https://femto.pw/ysn4",
                "output":"/cias/Decode.cia",
-               "message":"Now Downloading Digimon World Redigitize Decode Translation..."..."
+               "message":"Now Downloading Digimon World Redigitize Decode Translation..."
             },
             {
                "type":"installCia",
