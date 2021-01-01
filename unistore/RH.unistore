@@ -11,7 +11,7 @@
       "textColor": "#FFFFFF",
       "selectedColor": "#78C0D8",
       "unselectedColor": "#4D7684",
-      "revision": 39,
+      "revision": 40,
       "version": 3
    },
    "storeContent":[
@@ -97,33 +97,31 @@
       },
       {
          "info":{
-            "title":"Fire Emblem Shadows of Valentia Amiibos++",
-            "version":"2",
-            "author":"Oersted",
-            "description":"Allows one to recruit amiibos in the early game, via altered events.",
-            "category":"Turn-Based Strategy",
+            "title":"Digimon World Redigitize Decode English Translation",
+            "version":"1.0",
+            "author":"Operation Decoded",
+            "description":"English Translation Of The 3ds Digimon Game.",
+            "category":"Adventure",
             "console":"3ds",
-            "last_updated":"11-17-2020",
+            "last_updated":"1-1-2021",
             "fileSize":0
          },
-         "Fire Emblem Shadows of Valentia Amiibos++":[
+         "Digimon World Redigitize Decode English Translation (755 MiB)":[
             {
                "type":"downloadFile",
-               "file":"https://www.dropbox.com/s/136tlm29ldvs9zi/amiibos_v2.zip?dl=1",
-               "output":"/amiibos_v2.zip",
-               "message":"Now Downloading amiibos v2..."
+               "file":"https://femto.pw/ysn4",
+               "output":"/cias/Decode.cia",
+               "message":"Now Downloading Digimon World Redigitize Decode Translation..."..."
             },
             {
-               "type":"extractFile",
-               "file":"/amiibos_v2.zip",
-               "input":"",
-               "output":"/luma/titles/00040000001B4000/",
-               "message":"Now Extracting Amiibos++..."
+               "type":"installCia",
+               "file":"/cias/Decode.cia",
+               "message":"Now Installing Digimon Redigitize Decode..."
             },
             {
                "type":"deleteFile",
-               "file":"/amiibos_v2.zip",
-               "message":"Deleting uneeded archive"
+               "file":"/cias/Decode.cia",
+               "message":"Deleting uneeded cia"
             }
          ]
       },
