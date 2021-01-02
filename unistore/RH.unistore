@@ -106,10 +106,10 @@
             "last_updated":"1-1-2021",
             "fileSize":0
          },
-         "Digimon World Redigitize Decode English Translation (755 MiB)":[
+         "Digimon World Redigitize Decode English Translation (735 MiB)":[
             {
                "type":"downloadFile",
-               "file":"https://femto.pw/ysn4",
+               "file":"https://www.dropbox.com/s/4xwfivx0jht38jl/d.cia?dl=1",
                "output":"/cias/Decode.cia",
                "message":"Now Downloading Digimon World Redigitize Decode Translation..."
             },
