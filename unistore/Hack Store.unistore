@@ -2,8 +2,8 @@
    "storeInfo": {
       "title": "Kirit's Hack Showcase Baby",
       "author": "Kirit",
-      "file": "RH.unistore",
-      "url":"https://github.com/Kirit29/T/raw/master/unistore/RH.unistore",
+      "file": "Hack Store.unistore",
+      "url":"https://github.com/Kirit29/T/raw/master/unistore/Hack Store.unistore",
       "description": "Various Fangames",
       "barColor":"#395472",
       "bgBottomColor":"#262C4D",
@@ -11,7 +11,7 @@
       "textColor": "#FFFFFF",
       "selectedColor": "#78C0D8",
       "unselectedColor": "#4D7684",
-      "revision": 43,
+      "revision": 44,
       "version": 3
    },
    "storeContent":[
