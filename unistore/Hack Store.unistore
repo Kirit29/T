@@ -11,7 +11,7 @@
       "textColor": "#FFFFFF",
       "selectedColor": "#78C0D8",
       "unselectedColor": "#4D7684",
-      "revision": 50,
+      "revision": 51,
       "version": 3
    },
    "storeContent":[
@@ -102,7 +102,7 @@
             "author":"Ishrak's PokeTips",
             "description":"Adventure Through the Macva Region.",
             "category":"Adventure",
-            "console":"GBA",
+            "console":"Gba",
             "last_updated":"3-22-2021",
          },
          "Download Pokemon Yuval Alpha(32 MiB)":[
@@ -121,7 +121,7 @@
             {
                "type":"deleteFile",
                "file":""/gba/zip archives/Pokemon Yuval Alpha.zip",
-               "message":"Deleting uneeded Archive"
+               "message":"Deleting uneeded Archive..."
             }
          ]
       },
