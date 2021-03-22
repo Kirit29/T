@@ -11,7 +11,7 @@
       "textColor": "#FFFFFF",
       "selectedColor": "#78C0D8",
       "unselectedColor": "#4D7684",
-      "revision": 53,
+      "revision": 54,
       "version": 3
    },
    "storeContent":[
@@ -108,13 +108,14 @@
          "Download Pokemon Yuval Alpha(32 MiB)":[
             {
                "type":"downloadFile",
-               "file":"https://www.dropbox.com/s/lp119sj4jtm7ztc/Pokemon%20Yuval%20Alpha.zip?dl=1",
+               "file":"https://drive.google.com/u/0/uc?id=1ly3SPyvvNhsAKfXqt8DFbZfINzVcux5N&export=download",
                "output":"/gba/zip archives/Pokemon Yuval Alpha.zip",
                "message":"Now Downloading Pokemon Yuval Alpha..."
             },
             {
                "type":"extractFile",
                "file":"/gba/zip archives/Pokemon Yuval Alpha.zip",
+               "input":"Pokemon Yuval.gba"
                "output":"/gba/Pokemon Yuval Alpha.gba",
                "message":"Now Extracting Archive..."
             },
