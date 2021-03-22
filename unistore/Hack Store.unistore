@@ -11,7 +11,7 @@
       "textColor": "#FFFFFF",
       "selectedColor": "#78C0D8",
       "unselectedColor": "#4D7684",
-      "revision": 49,
+      "revision": 50,
       "version": 3
    },
    "storeContent":[
@@ -97,16 +97,15 @@
       },
       {
          "info":{
-            "title":"Digimon World Redigitize Decode English Translation (Unavailable ATM)",
-            "version":"1.0",
-            "author":"Operation Decoded",
-            "description":"English Translation Of The 3ds Digimon Game.",
+            "title":"Pokemon Yuval",
+            "version":"Alpha",
+            "author":"Ishrak's PokeTips",
+            "description":"Adventure Through the Macva Region.",
             "category":"Adventure",
-            "console":"3ds",
-            "last_updated":"1-1-2021",
-            "fileSize":0
+            "console":"GBA",
+            "last_updated":"3-22-2021",
          },
-         "Digimon World Redigitize Decode English Translation (735 MiB)":[
+         "Download Pokemon Yuval Alpha(32 MiB)":[
             {
                "type":"downloadFile",
                "file":"https://drive.google.com/u/0/uc?id=1ly3SPyvvNhsAKfXqt8DFbZfINzVcux5N&export=download",
