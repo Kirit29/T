@@ -115,7 +115,7 @@
             {
                "type":"extractFile",
                "file":"/gba/zip archives/Pokemon Yuval Alpha.zip",
-               "input":"Pokemon Yuval.gba"
+               "input":"Pokemon Yuval.gba",
                "output":"/gba/Pokemon Yuval Alpha.gba",
                "message":"Now Extracting Archive..."
             },
