@@ -120,7 +120,7 @@
             },
             {
                "type":"deleteFile",
-               "file":""/gba/zip archives/Pokemon Yuval Alpha.zip",
+               "file":"/gba/zip archives/Pokemon Yuval Alpha.zip",
                "message":"Deleting uneeded Archive..."
             }
          ]
