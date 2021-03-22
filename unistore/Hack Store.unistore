@@ -108,7 +108,7 @@
          "Download Pokemon Yuval Alpha(32 MiB)":[
             {
                "type":"downloadFile",
-               "file":"https://drive.google.com/u/0/uc?id=1ly3SPyvvNhsAKfXqt8DFbZfINzVcux5N&export=download",
+               "file":"https://www.dropbox.com/s/lp119sj4jtm7ztc/Pokemon%20Yuval%20Alpha.zip?dl=1",
                "output":"/gba/zip archives/Pokemon Yuval Alpha.zip",
                "message":"Now Downloading Pokemon Yuval Alpha..."
             },
