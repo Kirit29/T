@@ -146,7 +146,7 @@
             {
                "type":"extractFile",
                "file":"/amiibos++/amiibos.zip",
-               "input":"/romfs",
+               "input":"./",
                "output":"/luma/titles/00040000001B4000/",
                "message":"Now Extracting Archive..."
             },
