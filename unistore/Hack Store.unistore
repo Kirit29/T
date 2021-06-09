@@ -11,7 +11,7 @@
       "textColor": "#FFFFFF",
       "selectedColor": "#78C0D8",
       "unselectedColor": "#4D7684",
-      "revision": 62,
+      "revision": 63,
       "version": 3
    },
    "storeContent":[
@@ -100,7 +100,7 @@
             "title":"Dragon Quest Monsters Joker 3: Professional English Translation",
             "version":"Official",
             "author":"Unknown",
-            "description":"Translation of the Jp only 3ds game Dragon Quest Monsters 3 Joker Pro.",
+            "description":"Translation of the Jp only 3ds game Dragon Quest Monsters 3 Joker Pro",
             "category":"Translation",
             "console":"3ds",
             "last_updated":"6-9-2021"
