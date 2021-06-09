@@ -98,7 +98,7 @@
       {
          "info":{
             "title":"Dragon Quest Monsters Joker 3: Professional English Translation",
-            "version":"Official",
+            "version":"Official Unofficial",
             "author":"Unknown",
             "description":"Translation of the Jp only 3ds game Dragon Quest Monsters 3 Joker Pro",
             "category":"Translation",
@@ -115,7 +115,6 @@
             {
                "type":"extractFile",
                "file":"/downloads/DQMJ3P.zip",
-               "input":”/romfs/”,
                "output":"/luma/titles/00040000001ACB00/",
                "message":"Now Extracting Archive..."
             },
