@@ -97,31 +97,31 @@
       },
       {
          "info":{
-            "title":"Pokemon Yuval",
-            "version":"Alpha",
-            "author":"Ishrak's PokeTips",
-            "description":"Adventure Through the Macva Region.",
-            "category":"Adventure",
-            "console":"Gba",
-            "last_updated":"3-22-2021"
+            "title":"Dragon Quest Monsters Joker 3: Professional English Translation",
+            "version":"Official",
+            "author":"Unknown",
+            "description":"Translation of the Jp only 3ds game Dragon Quest Monsters 3 Joker Pro.",
+            "category":"Translation",
+            "console":"3ds",
+            "last_updated":"6-9-2021"
          },
-         "Download Pokemon Yuval Alpha(32 MiB)":[
+         "Download Dragon Quest Monsters Joker 3: Professional English Translation (20 MiB)":[
             {
                "type":"downloadFile",
-               "file":"https://drive.google.com/u/0/uc?id=1ly3SPyvvNhsAKfXqt8DFbZfINzVcux5N&export=download",
-               "output":"/gba/Pokemon Yuval Alpha.zip",
-               "message":"Now Downloading Pokemon Yuval Alpha..."
+               "file":"https://www.dropbox.com/s/mbls9nsu2pl5gwo/DQMJ3P.zip?dl=1",
+               "output":"/downloads/DQMJ3P.zip",
+               "message":"Now Downloading Archive..."
             },
             {
                "type":"extractFile",
-               "file":"/gba/Pokemon Yuval Alpha.zip",
-               "input":"Pokemon Yuval.gba",
-               "output":"/gba/Pokemon Yuval Alpha.gba",
+               "file":"/downloads/DQMJ3P.zip",
+               "input":”/romfs",
+               "output":"/luma/titles/00040000001ACB00/",
                "message":"Now Extracting Archive..."
             },
             {
                "type":"deleteFile",
-               "file":"/gba/Pokemon Yuval Alpha.zip",
+               "file":"/downloads/DQMJ3P.zip",
                "message":"Deleting uneeded Archive..."
             }
          ]
