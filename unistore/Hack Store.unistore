@@ -115,8 +115,8 @@
             {
                "type":"extractFile",
                "file":"/downloads/DQMJ3P.zip",
-               "input":”romfs”,
-               "output":"/luma/titles/00040000001ACB00",
+               "input":”/romfs/”,
+               "output":"/luma/titles/00040000001ACB00/",
                "message":"Now Extracting Archive..."
             },
             {
