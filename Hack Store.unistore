@@ -1,5 +1,4 @@
-[
-  {
+{
    "storeInfo": {
       "title": "Kirit's Hack Showcase Baby",
       "author": "Kirit",
@@ -12,7 +11,7 @@
       "textColor": "#FFFFFF",
       "selectedColor": "#78C0D8",
       "unselectedColor": "#4D7684",
-      "revision": 66,
+      "revision": 63,
       "version": 3
    },
    "storeContent":[
@@ -236,44 +235,9 @@
             }
          ]
        },
-       {
-         "info":{
-            "title":"Mgba 3ds Development Build",
-            "version":"Hourly",
-            "author":"endrift",
-            "description":"",
-            "category":"Emulator",
-            "console":"3ds"
-         },
-         "mgba.cia":[
-            {
-               "type":"downloadFile",
-               "file":"https://s3.amazonaws.com/mgba/mGBA-build-latest-3ds.7z",
-               "output":"/mGBA-build-latest-3ds.7z",
-               "message":"Now Downloading mgba 7z"
-		},
-		{
-			"type": "extractFile",
-			"file": "/mGBA-build-latest-3ds.7z",
-			"input": ".*/cia/mgba.cia",
-			"output": "/mgba.cia",
-			"message": "Extracting mGBA..."
-		},
-		{
-			"type": "installCia",
-			"file": "/mgba.cia",
-			"message": "Installing the mGBA CIA..."
-		},
-		{
-			"type": "deleteFile",
-			"file": "/mGBA-build-latest-3ds.7z",
-			"message": "Deleting the downloaded 7z file..."
-            }
-         ]
-      },
       {
          "info":{
-            "title":"Mgba 3ds Development Builed",
+            "title":"Mgba 3ds Development Build",
             "version":"Hourly",
             "author":"endrift",
             "description":"",
@@ -325,4 +289,6 @@
                "message":"Now Downloading Pokemon Unbound..."
             }
          ]
+      }
    ]
+}
