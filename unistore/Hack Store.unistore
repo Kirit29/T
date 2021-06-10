@@ -11,7 +11,7 @@
       "textColor": "#FFFFFF",
       "selectedColor": "#78C0D8",
       "unselectedColor": "#4D7684",
-      "revision": 63,
+      "revision": 65,
       "version": 3
    },
    "storeContent":[
@@ -98,7 +98,7 @@
       {
          "info":{
             "title":"Dragon Quest Monsters Joker 3: Professional English Translation",
-            "version":"Official Unofficial",
+            "version":"Official",
             "author":"Unknown",
             "description":"Translation of the Jp only 3ds game Dragon Quest Monsters 3 Joker Pro",
             "category":"Translation",
@@ -115,7 +115,8 @@
             {
                "type":"extractFile",
                "file":"/downloads/DQMJ3P.zip",
-               "output":"/luma/titles/00040000001ACB00/",
+               "input":”romfs”,
+               "output":"/luma/titles/00040000001ACB00",
                "message":"Now Extracting Archive..."
             },
             {
@@ -289,6 +290,45 @@
                "message":"Now Downloading Pokemon Unbound..."
             }
          ]
-      }
+      },
+      {
+         "info":{
+            "title":"DQM3JPRO",
+            "version":"",
+            "author":"",
+            "description":"",
+            "category":"",
+            "console":"3ds"
+         },
+         ”DQM (1.5 GiB)":[
+            {
+               "type":"downloadFile",
+               "file":"https://www.dropbox.com/s/0graicltn8huwie/Dragon%20Quest%20Monsters%20-%20Joker%203%20Professional%20%28JPN%29%20Eng%20Patched%20v2.cia?dl=1",
+               "output":"/downloads/DQMJ3.cia",
+		},
+		{
+			"type": "downloadFile",
+			"file": ”https://www.dropbox.com/s/jhh8govqys1p8vz/DQM-%20Joker%203%20Professional%20%28JPN%29%20ENG%20Update%20v1.3%20v2%20ENC.cia?dl=1",
+			"output": "/downloads/dqupdate.cia”
+		},
+		{
+			"type": "installCia",
+			"file": "/downloads/DQMJ3.cia",
+		},
+		{
+			"type": "deleteFile",
+			"file": "/downloads/DQMJ3.cia",
+			"message": "Deleting the unneeded files”,
+		},
+		{
+			"type": "installCia",
+			"file": "/downloads/dqupdate.cia",
+		},
+		{
+			"type": "deleteFile",
+			"file": "/downloads/dqudate.cia",
+			"message": "Deleting the unneeded files”,
+            }
+         ]
    ]
 }
