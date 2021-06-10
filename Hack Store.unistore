@@ -250,8 +250,8 @@
                "file":"https://www.dropbox.com/s/0graicltn8huwie/Dragon%20Quest%20Monsters%20-%20Joker%203%20Professional%20%28JPN%29%20Eng%20Patched%20v2.cia?dl=1",
                "output":"/downloads/DQMJ3P.cia",
                "message":"Now Downloading mgba 7z"
-	        },
-          {
+	       },
+         {
 				type": "installCia",
 			         "file": "/downloads/DQMJ3P.cia",
 			         "message": "Installing..."
@@ -304,15 +304,15 @@
 		},
 		{
 								"type": "installCia",
-			"file": "/mgba.cia",
-			"message": "Installing the mGBA CIA..."
+								"file": "/mgba.cia",
+								"message": "Installing the mGBA CIA..."
 		},
 		{
 			"type": "deleteFile",
 			"file": "/mGBA-build-latest-3ds.7z",
 			"message": "Deleting the downloaded 7z file..."
             }
-		 ]
+				 ]
       },
       {
          "info":{
@@ -334,4 +334,4 @@
             }
          ]
       }
-   ]}
+   }
