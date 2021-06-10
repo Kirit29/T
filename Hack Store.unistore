@@ -250,32 +250,32 @@
                "file":"https://www.dropbox.com/s/0graicltn8huwie/Dragon%20Quest%20Monsters%20-%20Joker%203%20Professional%20%28JPN%29%20Eng%20Patched%20v2.cia?dl=1",
                "output":"/downloads/DQMJ3P.cia",
                "message":"Now Downloading mgba 7z"
-	       },
-         {
-				type": "installCia",
-			         "file": "/downloads/DQMJ3P.cia",
-			         "message": "Installing..."
-		    },
-		    {
-			         "type": "deleteFile",
-			         "file": "/downloads/DQMJ3P.cia",
-			         "message": "Deleting Uneeded file..."
-        },
-        {
-                      "type":"downloadFile",
-                      "file":"https://www.dropbox.com/s/jhh8govqys1p8vz/DQM-%20Joker%203%20Professional%20%28JPN%29%20ENG%20Update%20v1.3%20v2%20ENC.cia?dl=1",
-                      "output":"/downloads/DQUpdate.cia",
-                      "message":"Downloading..."
-	    	},
-		    {
-			         "type": "installCia",
-			         "file": "/downloads/DQUpdate.cia",
-			         "message": "Installing..."
-		    },
-		    {
-			         "type": "deleteFile",
-			         "file": "/downloads/DQUpdate.cia",
-							 ”message": "Deleting Uneeded file..."
+	    },
+            {
+               ”type": "ininstallCia”
+               ”file": "/downloads/DQMJ3P.cia",
+               "message": "Installing...'
+            },
+            {
+               "type": "deleteFile",
+               "file": "/downloads/DQMJ3P.cia",
+               "message": "Deleting Uneeded file..."
+            },
+            {
+               "type":"downloadFile",
+               "file":"https://www.dropbox.com/s/jhh8govqys1p8vz/DQM-%20Joker%203%20Professional%20%28JPN%29%20ENG%20Update%20v1.3%20v2%20ENC.cia?dl=1",
+               "output":"/downloads/DQUpdate.cia",
+               "message":"Downloading.,,”
+            },
+            {
+               "type":"installCia”,
+               ”file":"/downloads/DQUpate.cia”,
+               "message":"Installing..."
+            },
+            {
+               "type": "deleteFile",
+               "file": "/downloads/DQUpdate.cia”,
+               ”message": "Deleting Uneeded file..."
             }
          ]
       },
@@ -293,26 +293,25 @@
                "type":"downloadFile",
                "file":"https://s3.amazonaws.com/mgba/mGBA-build-latest-3ds.7z",
                "output":"/mGBA-build-latest-3ds.7z",
-               "message":"Now Downloading mgba 7z"
-		},
-		{
-								"type": "extractFile",
-								"file": "/mGBA-build-latest-3ds.7z",
-								"input": ".*/cia/mgba.cia",
-								"output": "/mgba.cia",
-								"message": "Extracting mGBA..."
-		},
-		{
-								"type": "installCia",
-								"file": "/mgba.cia",
-								"message": "Installing the mGBA CIA..."
-		},
-		{
-			"type": "deleteFile",
-			"file": "/mGBA-build-latest-3ds.7z",
-			"message": "Deleting the downloaded 7z file..."
+               "message":"Now Downloading mgba 7
+            },
+            {
+		"type": "extractFile",
+                "file": "/mGBA-build-latest-3ds.7z”,
+                "input": ".*/cia/mgba.cia”
+                "output": "/mgba.cia”,
+                ”message": "Extracting mGBA..."
+            },
+                "type": "installCia”,
+                "file": "/mgba.cia",
+                "message": "Installing the mGBA CIA...”
+            },
+            {
+                "type": "deleteFile",
+                "file": "/mGBA-build-latest-3ds.7z"
+                ”message": "Deleting the downloaded 7z file..."
             }
-				 ]
+	]
       },
       {
          "info":{
