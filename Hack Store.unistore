@@ -284,7 +284,7 @@
             "title":"Mgba 3ds Development Build",
             "version":"Hourly",
             "author":"endrift",
-            "description":"",
+            "description":"GBA Emulator",
             "category":"Emulator",
             "console":"3ds"
          },
@@ -308,7 +308,7 @@
             },
             {
                 "type": "deleteFile",
-                "file": "/mGBA-build-latest-3ds.7z"
+                "file": "/mGBA-build-latest-3ds.7z",
                 ”message": "Deleting the downloaded 7z file..."
             }
 	]
