@@ -11,14 +11,14 @@
       "textColor": "#FFFFFF",
       "selectedColor": "#78C0D8",
       "unselectedColor": "#4D7684",
-      "revision": 64,
+      "revision": 63,
       "version": 3
    },
    "storeContent":[
       {
          "info":{
             "title":"Pokemon Adventure Red Chapter",
-            "version":"Final",
+            "version":"Vol. 1",
             "author":"Aethestode",
             "category":"Pokemon Fire Red Hack",
             "console":"Gameboy Advance",
@@ -234,7 +234,51 @@
                "message":"Now Downloading Pokemon SotS"
             }
          ]
-       },
+      },
+      {
+         "info":{
+            "title":"DQMJ3P",
+            "version":"Official Unofficial",
+            "author":"Unknown",
+            "description":"",
+            "category":"Translation",
+            "console":"3ds"
+         },
+         "DQMJ3P":[
+            {
+               "type":"downloadFile",
+               "file":"https://www.dropbox.com/s/0graicltn8huwie/Dragon%20Quest%20Monsters%20-%20Joker%203%20Professional%20%28JPN%29%20Eng%20Patched%20v2.cia?dl=1",
+               "output":"/downloads/DQMJ3P.cia",
+               "message":"Now Downloading mgba 7z"
+	    	    },
+		        {
+			         "type": "installCia",
+			         "file": "/downloads/DQMJ3P.cia",
+			         "message": "Installing..."
+		        },
+		        {
+			         "type": "deleteFile",
+			         "file": "/downloads/DQMJ3P.cia",
+			         "message": "Deleting Uneeded file..."
+                },
+                {
+                      "type":"downloadFile",
+                      "file":"https://www.dropbox.com/s/jhh8govqys1p8vz/DQM-%20Joker%203%20Professional%20%28JPN%29%20ENG%20Update%20v1.3%20v2%20ENC.cia?dl=1",
+                      "output":"/downloads/DQUpdate.cia",
+                      "message":"Downloading..."
+	    	    },
+		        {
+			         "type": "installCia",
+			         "file": "/downloads/DQUpdate.cia",
+			         "message": "Installing..."
+		        },
+		        {
+			         "type": "deleteFile",
+			         "file": "/downloads/DQUpdate.cia",
+			         "message": "Deleting Uneeded file..."
+            }
+         ]
+      },
       {
          "info":{
             "title":"Mgba 3ds Development Build",
@@ -268,7 +312,7 @@
 			"file": "/mGBA-build-latest-3ds.7z",
 			"message": "Deleting the downloaded 7z file..."
             }
-         ]
+		 ]
       },
       {
          "info":{
@@ -290,5 +334,4 @@
             }
          ]
       }
-   ]
-}
+   ]}
