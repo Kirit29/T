@@ -300,34 +300,34 @@
             "category":"",
             "console":"3ds"
          },
-         ”DQM (1.5 GiB)":[
+         ”DQM (1 GiB)":[
             {
                "type":"downloadFile",
                "file":"https://www.dropbox.com/s/0graicltn8huwie/Dragon%20Quest%20Monsters%20-%20Joker%203%20Professional%20%28JPN%29%20Eng%20Patched%20v2.cia?dl=1",
                "output":"/downloads/DQMJ3.cia",
 		},
 		{
-			"type": "downloadFile",
-			"file": ”https://www.dropbox.com/s/jhh8govqys1p8vz/DQM-%20Joker%203%20Professional%20%28JPN%29%20ENG%20Update%20v1.3%20v2%20ENC.cia?dl=1",
-			"output": "/downloads/dqupdate.cia”
+			"type":"downloadFile",
+			"file":”https://www.dropbox.com/s/jhh8govqys1p8vz/DQM-%20Joker%203%20Professional%20%28JPN%29%20ENG%20Update%20v1.3%20v2%20ENC.cia?dl=1",
+			"output":"/downloads/dqupdate.cia”
 		},
 		{
-			"type": "installCia",
-			"file": "/downloads/DQMJ3.cia",
+			"type":'installCia",
+			"file":”/downloads/DQMJ3.cia",
 		},
 		{
-			"type": "deleteFile",
+			"type":”deleteFile",
 			"file": "/downloads/DQMJ3.cia",
 			"message": "Deleting the unneeded files”,
 		},
 		{
-			"type": "installCia",
-			"file": "/downloads/dqupdate.cia",
+			"type":”installCia",
+			"file":"/downloads/dqupdate.cia",
 		},
 		{
-			"type": "deleteFile",
-			"file": "/downloads/dqudate.cia",
-			"message": "Deleting the unneeded files”,
+			"type":”deleteFile",
+			"file":"/downloads/dqudate.cia",
+			"message":”Deleting the unneeded files”,
             }
          ]
    ]
