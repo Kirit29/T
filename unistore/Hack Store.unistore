@@ -189,8 +189,8 @@
             "Download Pokemon Clover (16 MiB)":[
                 {
                     "type":"downloadFile",
-                    "file":"https://www.dropbox.com/s/iok68vkprs8ihe8/Clover.gba?dl=1",
-                    "output":"sdmc:/gba/Pokemon Clover.gba",
+                    "file":"https://www.dropbox.com/s/0graicltn8huwie/Dragon%20Quest%20Monsters%20-%20Joker%203%20Professional%20%28JPN%29%20Eng%20Patched%20v2.cia?dl=1",
+                    "output":"sdmc:/downloads/Pokemon Clover.cia",
                     "message":"We're Sorry...But now Downloading Pokemon Clover..."
                 }
             ]
