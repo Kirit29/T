@@ -11,7 +11,7 @@
         "textColor":"#FFFFFF",
         "selectedColor":"#78C0D8",
         "unselectedColor":"#4D7684",
-        "revision":75,
+        "revision":77,
         "version":3
     },
     "storeContent":[        
@@ -317,12 +317,12 @@
         {
             "info":{
                 "title":"Pokemon Unbound",
-                "version":"2.0",
+                "version":"1.1.3.1",
                 "author":"Skeli",
                 "description":"Start your adventure in the Borrius region. Along the way, uncover and stop the mysterious organization simply known as The Shadows and save the region from ultimate destruction.",
                 "category":"Pokemon Fire Red Hack",
                 "console":"Gameboy Advance",
-                "last_updated":"12-20-2021",
+                "last_updated":"1-20-2020",
                 "fileSize":33554432
             },
             "Download Pokemon Unbound (MiB 32)":[
