@@ -11,7 +11,7 @@
         "textColor":"#FFFFFF",
         "selectedColor":"#78C0D8",
         "unselectedColor":"#4D7684",
-        "revision":77,
+        "revision":78,
         "version":3
     },
     "storeContent":[        
@@ -78,11 +78,11 @@
         {
             "info":{
                 "title":"Pokemon Emerald Enhanced",
-                "version":"8.002",
+                "version":"8.105",
                 "author":"Ryuhouji",
                 "category":"Pokemon Emerald Decomp Hack",
                 "console":"Gameboy Advance",
-                "last_updated":"10-25-2021",
+                "last_updated":"12-06-2021",
                 "description":"Massively changed version of Pokemon Emerald",
                 "fileSize":33554432
             },
