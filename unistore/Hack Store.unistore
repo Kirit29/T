@@ -11,7 +11,7 @@
         "textColor":"#FFFFFF",
         "selectedColor":"#78C0D8",
         "unselectedColor":"#4D7684",
-        "revision":82,
+        "revision":83,
         "version":3
     },
     "storeContent":[        
@@ -339,7 +339,7 @@
                 "title":"Pokemon Silver Rival Version",
                 "version":"Final",
                 "author":"Caminopreacher",
-                "description":"Start your adventure in the Borrius region. Along the way, uncover and stop the mysterious organization simply known as The Shadows and save the region from ultimate destruction.",
+                "description":"Journey through Johto with a different perspective! This time as Gold's rival, Silver! See how his story unfolded!",
                 "category":"Pokemon Fire Red Hack",
                 "console":"Gameboy Advance",
                 "last_updated":"11-16-2023" ,
