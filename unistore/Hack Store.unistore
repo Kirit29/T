@@ -11,7 +11,7 @@
         "textColor":"#FFFFFF",
         "selectedColor":"#78C0D8",
         "unselectedColor":"#4D7684",
-        "revision":83,
+        "revision":84,
         "version":3
     },
     "storeContent":[        
@@ -351,6 +351,26 @@
                     "file":"https://www.dropbox.com/scl/fi/rwh2zf3npuejcuqdsirqg/Pokemon-Silver-Rival-Version.gba?rlkey=09d3v2vz8h692mf9go2acoxr7&dl=1",
                     "output":"sdmc:/gba/Pokemon Silver Rival.gba",
                     "message":"Now Downloading Pokemon Silver Rival Version..."
+                }
+            ]
+        },
+        {
+            "info":{
+                "title":"Avalon Code",
+                "version":"1.0",
+                "author":"Matrix Software",
+                "description":"Avalon Code (アヴァロンコード, Avaron Kōdo) is a fantasy action role-playing game for Nintendo DS. It was developed by Matrix Software and published by Marvelous Entertainment.",
+                "category":"RPG",
+                "console":"Nintendo DS",
+                "last_updated":"03-10-2009" ,
+                "fileSize":134217728
+            },
+            "Download Avalon Code (MiB 128)":[
+                {
+                    "type":"downloadFile",
+                    "file":"https://www.dropbox.com/scl/fi/ytca8htlpj1kn97uy2128/Avalon-Code-USA.nds?rlkey=aip5copp0a2g54d355n2w9hs8&dl=1",
+                    "output":"sdmc:/roms/nds/Avalon Code.nds",
+                    "message":"Now Downloading Avalon Code..."
                 }
             ]
         }
