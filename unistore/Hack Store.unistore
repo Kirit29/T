@@ -159,7 +159,7 @@
       "Download Pokemon Nameless Version ": [
         {
           "type": "downloadFile",
-          "file": "https://www.dropbox.com/scl/fi/3j64ql3m62enlsqekzp31/Pokemon-Nameless-Version.gba?rlkey=hewa93h541rjyrc6tts2oswhl&st=x8l1lwpd&dl=1",
+          "file": "https://www.dropbox.com/scl/fi/ky0q9mhibs1gs1jn7gzyb/Pokemon-Nameless-Version.gba?rlkey=2xt2e6j4l8pfnp6gsb14xe258&st=umfxp4lp&dl=1",
           "output": "sdmc:/gba/Pokemon Nameless Version.gba",
           "message": "Now Downloading Pokemon Nameless Version "
         }
@@ -179,8 +179,7 @@
       "Download Pokemon Clover (16 MiB)": [
         {
           "type": "downloadFile",
-          "file": "https://www.dropbox.com/s/0graicltn8huwie/Dragon%20Quest%20Monsters%20-%20Joker%203%20Professional%20%28JPN%29%20Eng%20Patched%20v2.cia?dl=1https://www.dropbox.com/scl/fi/3vw4gvhat46d2m90lllf9/Clover.gba?rlkey=d7lb58kkciv63imvjc86axi53&st=3xyvp5kc&dl=1",
-          "output": "sdmc:/downloads/Pokemon Clover.gba",
+          "file": "https://www.dropbox.com/scl/fi/3vw4gvhat46d2m90lllf9/Clover.gba?rlkey=d7lb58kkciv63imvjc86axi53&st=3xyvp5kc&dl=1",
           "message": "We're Sorry...But now Downloading Pokemon Clover..."
         }
       ]
