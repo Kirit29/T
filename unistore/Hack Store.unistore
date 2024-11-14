@@ -11,7 +11,7 @@
     "textColor": "#FFFFFF",
     "selectedColor": "#78C0D8",
     "unselectedColor": "#4D7684",
-    "revision": 85,
+    "revision": 86,
     "version": 3
   },
   "storeContent": [
@@ -69,7 +69,7 @@
       "Download Pokemon Glazed (32 MiB)": [
         {
           "type": "downloadFile",
-          "file": "https://www.dropbox.com/s/ck4sl5l5tphjni3/Glazed.gba?dl=1https://www.dropbox.com/scl/fi/jv6jd5lwaw45blkpziku4/Glazed.gba?rlkey=gpbk1h84lq92qcydevqo5x19c&st=z6yszrcf&dl=1",
+          "file": "https://www.dropbox.com/scl/fi/jv6jd5lwaw45blkpziku4/Glazed.gba?rlkey=gpbk1h84lq92qcydevqo5x19c&st=z6yszrcf&dl=1",
           "output": "sdmc:/gba/Pokemon Glazed.gba",
           "message": "Now Downloading Pokemon Glazed..."
         }
@@ -89,7 +89,7 @@
       "Download Pokemon Emerald Enhanced (32 MiB)": [
         {
           "type": "downloadFile",
-          "file": "https://www.dropbox.com/s/tntcofk6lpcj3i9/Emerald%20Enhanced.gba?dl=1",
+          "file": "https://www.dropbox.com/scl/fi/y8nivrerqhcmf26gfh9iy/Pokemon-Emerald-Enhanced.gba?rlkey=nhcfrqm4kj73metms8is0p4b3&st=8h77xj10&dl=1",
           "output": "sdmc:/gba/Emerald Enhanced.gba",
           "message": "Now Downloading Pokemon Emerald Enhanced..."
         }
