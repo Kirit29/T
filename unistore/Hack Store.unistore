@@ -11,7 +11,7 @@
     "textColor": "#FFFFFF",
     "selectedColor": "#78C0D8",
     "unselectedColor": "#4D7684",
-    "revision": 87,
+    "revision": 88,
     "version": 3
   },
   "storeContent": [
@@ -52,6 +52,26 @@
           "file": "https://www.dropbox.com/scl/fi/hwl0buhyn573j6in76lsg/Blazing-Emerald.gba?rlkey=9o07bjc69pdfyf6no0rlclzj6&st=nq7nsh6r&dl=1",
           "output": "sdmc:/gba/Blazing Emerald.gba",
           "message": "Now Downloading Pkmn Blazing Emerald..."
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Pokemon Tourmaline",
+        "version": "0.2.0",
+        "author": "tdilos",
+        "description": "Pokemon Emerald Fan Sequel",
+        "category": "Pokemon Emerald Decomp Hack",
+        "console": "Gameboy Advance",
+        "last_updated": "01-16-2025",
+        "fileSize": 33554432
+      },
+      "Download Pokemon Tourmaline (32 MiB)": [
+        {
+          "type": "downloadFile",
+          "file": "https://www.dropbox.com/scl/fi/jybh40x4s06h8a3i58pft/Pokemon-Tourmaline.gba?rlkey=60io2z3p5t38cw4vqpa45kz0a&st=pqffr8c3&dl=1",
+          "output": "sdmc:/gba/Pokemon Tourmaline.gba",
+          "message": "Now Downloading Pokemon Tourmaline..."
         }
       ]
     },
