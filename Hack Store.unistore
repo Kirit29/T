@@ -324,18 +324,18 @@
         "title": "Iridium Test",
         "version": "Beta 2",
         "author": "SauceYaTTA",
-        "description": "Romhack of Pokémon Heart Gold, with an new region.",
+        "description": "Romhack of Pokemon Heart Gold, with an new region.",
         "category": "RPG",
         "console": "Nintendo DS",
         "last_updated": "06-10-2026",
         "fileSize": 593000000
       },
-      "Download Pokémon Iridium Expanded Test (565.529 MiB)": [
+      "Download Pokemon Iridium Expanded Test (565.529 MiB)": [
         {
           "type": "downloadFile",
           "file": "https://www.dropbox.com/scl/fi/pj1ml3zm0pk65egsutlns/Iridium-Expanded.nds?rlkey=qx73zj665tnrch7ze1q9ot6dm&st=9kg36xd8&dl=1",
-          "output": "sdmc:/roms/nds/Pokémon Iridium E.nds",
-          "message": "Now Downloading Pokémon Iridium..."
+          "output": "sdmc:/roms/nds/Pokemon Iridium E.nds",
+          "message": "Now Downloading Pokemon Iridium..."
         }
       ]
     }
