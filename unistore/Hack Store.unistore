@@ -17,21 +17,21 @@
   "storeContent": [
     {
       "info": {
-        "title": "Pokemon Adventure Red Chapter",
-        "version": "Vol. 1",
-        "author": "Aethestode",
-        "category": "Pokemon Fire Red Hack",
+        "title": "Pokemon Monomyth",
+        "version": "1.0",
+        "author": "Team Monomyth",
+        "category": "Pokemom Emerald Hack",
         "console": "Gameboy Advance",
-        "last_updated": "12-2-2020",
-        "description": "Based on Pokemon Adventure Manga's Red Arc",
+        "last_updated": "10-30-2026",
+        "description": "New Pokemon Emerald Decomphack",
         "fileSize": 33554432
       },
-      "Download Pokemon Adventure Red's Chapter (32 MiB)": [
+      "Download Pokemon Monomyth Version (32 MiB)": [
         {
           "type": "downloadFile",
-          "file": "https://www.dropbox.com/scl/fi/j0snzlo3umydlxl82g2kn/Pokemon-Adventure-Red-Chapter.gba?rlkey=x94dunmyhruk3aalg6c7106v7&st=3althdzd&dl=1",
-          "output": "sdmc:/gba/Pokemon Adventure - Red Chapter.gba",
-          "message": "Now Downloading Adventure Red Chapter..."
+          "file": "https://www.dropbox.com/scl/fi/j2h9lcqdhxdmelq16xyaz/monomyth_v1_0.gba?rlkey=769ld1li3y3tzwc5tq52dhwgf&st=yfrj85np&dl=1",
+          "output": "sdmc:/gba/Pokemon - Monomyth.gba",
+          "message": "Now Downloading Pokemon Monomyth..."
         }
       ]
     },
