@@ -11,25 +11,25 @@
     "textColor": "#FFFFFF",
     "selectedColor": "#78C0D8",
     "unselectedColor": "#4D7684",
-    "revision": 90,
+    "revision": 91,
     "version": 3
   },
   "storeContent": [
     {
       "info": {
         "title": "Pokemon Monomyth",
-        "version": "1.0",
+        "version": "1.1",
         "author": "Team Monomyth",
         "category": "Pokemom Emerald Hack",
         "console": "Gameboy Advance",
-        "last_updated": "10-30-2026",
+        "last_updated": "11-01-2026",
         "description": "New Pokemon Emerald Decomphack",
         "fileSize": 33554432
       },
       "Download Pokemon Monomyth Version (32 MiB)": [
         {
           "type": "downloadFile",
-          "file": "https://www.dropbox.com/scl/fi/j2h9lcqdhxdmelq16xyaz/monomyth_v1_0.gba?rlkey=769ld1li3y3tzwc5tq52dhwgf&st=yfrj85np&dl=1",
+          "file": "https://www.dropbox.com/scl/fi/itirjg9r0ll3jm0qe7et6/monomyth_v1_1.gba?rlkey=m1o0hdkj91zw1l62d1sekfk56&st=jv9imwfs&dl=1",
           "output": "sdmc:/gba/Pokemon - Monomyth.gba",
           "message": "Now Downloading Pokemon Monomyth..."
         }
