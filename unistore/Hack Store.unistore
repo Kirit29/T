@@ -11,7 +11,7 @@
     "textColor": "#FFFFFF",
     "selectedColor": "#78C0D8",
     "unselectedColor": "#4D7684",
-    "revision": 93,
+    "revision": 94,
     "version": 3
   },
   "storeContent": [
@@ -282,12 +282,12 @@
     {
       "info": {
         "title": "Pokemon Legends Delta",
-        "version": "2.2.1",
+        "version": "2.2.2",
         "author": "Delta Rangers",
         "description": "Go on an Adventure in Ancient Hoenn",
         "category": "Pokemon Fire Red Hack",
         "console": "Gameboy Advance",
-        "last_updated": "11-08-2026",
+        "last_updated": "11-09-2026",
         "fileSize": 33554432
       },
       "Download Pokemon Legends Delta (MiB 32)": [
