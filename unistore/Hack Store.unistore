@@ -11,7 +11,7 @@
     "textColor": "#FFFFFF",
     "selectedColor": "#78C0D8",
     "unselectedColor": "#4D7684",
-    "revision": 91,
+    "revision": 92,
     "version": 3
   },
   "storeContent": [
@@ -276,6 +276,26 @@
           "file": "https://www.dropbox.com/s/uh8n47rgadgk1kn/Pokemon%20Unbound.gba?dl=1https://www.dropbox.com/scl/fi/xz37poepdzo6gfklz1vo8/Pokemon-Unbound.gba?rlkey=b1tgzlw1t4b28aqw5aev1zw0d&st=9yp3zyke&dl=1",
           "output": "sdmc:/gba/Pokemon Unbound.gba",
           "message": "Now Downloading Pokemon Unbound..."
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Pokemon Legends Delta",
+        "version": "2.2.1",
+        "author": "Delta Rangers",
+        "description": "Go on an Adventure in Ancient Hoenn",
+        "category": "Pokemon Fire Red Hack",
+        "console": "Gameboy Advance",
+        "last_updated": "11-08-2026",
+        "fileSize": 33554432
+      },
+      "Download Pokemon Legends Delta (MiB 32)": [
+        {
+          "type": "downloadFile",
+          "file": "https://www.dropbox.com/scl/fi/km8p10kphgffq27mwsh16/Pokemon-Legends-Delta-v2.2.1.gba?rlkey=7y8dq5xt4m1m7sq4yqoro34ty&st=b7xxewsp&dl=1",
+          "output": "sdmc:/gba/Pokemon Legends Delta.gba",
+          "message": "Now Downloading Legends Delta..."
         }
       ]
     },
