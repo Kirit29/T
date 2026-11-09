@@ -11,7 +11,7 @@
     "textColor": "#FFFFFF",
     "selectedColor": "#78C0D8",
     "unselectedColor": "#4D7684",
-    "revision": 92,
+    "revision": 93,
     "version": 3
   },
   "storeContent": [
@@ -293,7 +293,7 @@
       "Download Pokemon Legends Delta (MiB 32)": [
         {
           "type": "downloadFile",
-          "file": "https://www.dropbox.com/scl/fi/km8p10kphgffq27mwsh16/Pokemon-Legends-Delta-v2.2.1.gba?rlkey=7y8dq5xt4m1m7sq4yqoro34ty&st=b7xxewsp&dl=1",
+          "file": "https://www.dropbox.com/scl/fi/p06ybhq4rzrv4rcovapow/Pokemon-Legends-Delta-v2.2.2.gba?rlkey=30dhg45afnkywgkq7b2hef6mp&st=4imyctao&dl=1",
           "output": "sdmc:/gba/Pokemon Legends Delta.gba",
           "message": "Now Downloading Legends Delta..."
         }
